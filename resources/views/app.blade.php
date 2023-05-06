@@ -13,6 +13,7 @@
   <!-- Material Design Bootstrap -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.11/css/mdb.min.css" rel="stylesheet">
 
+  @vite('resources/js/app.js')
 </head>
 
 <body>
