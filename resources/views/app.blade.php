@@ -17,6 +17,8 @@
 </head>
 
 <body>
+  @include('nav')
+
   @yield('content')
 
   <!-- JQuery -->
